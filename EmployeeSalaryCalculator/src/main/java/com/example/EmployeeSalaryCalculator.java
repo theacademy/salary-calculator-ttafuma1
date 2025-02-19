@@ -83,7 +83,6 @@ public class EmployeeSalaryCalculator
 		System.out.println("                                     ");
 		System.out.println("================PAYSLIP==============");
 		System.out.println("                                     ");
-
 		System.out.println("Employee ID    :       " + employeeID);
 		System.out.println("Employee Name  :       " + employeeName);
 		System.out.println("Hours Worked   :       " + hoursWorked);
